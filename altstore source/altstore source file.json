@@ -1,0 +1,41 @@
+{
+  "name": "Iftekhat Repo",
+  "identifier": "com.ifetkhar.test",
+  "apps": [
+    {
+      "name": "Utube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "ifetkhar",
+      "subtitle": "Test Subtitle.",
+      "version": "16.34.7",
+      "versionDate": "2021-09-01T14:30:00-07:00",
+      "versionDescription": "test versionDescription",
+      "downloadURL": "https://github.com/iftekharAmurad/altstore_repo/raw/fe216b7694d04e173c9a5f1045c5dea8bd087e33/ipa/YouTube_16.34.7_uYou_1.7.ipa",
+      "localizedDescription": "test localizedDescription",
+      "iconURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/icon.png",
+      "tintColor": "78209d",
+      "size": 7924507,
+      "screenshotURLs": [
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/3.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/3.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/4.jpg"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Utube Now Available",
+      "identifier": "com-google-ios-youtube",
+      "caption": "Download today from the test source.",
+      "tintColor": "78209d",
+      "imageURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1.jpg",
+      "appID": "com.google.ios.youtube",
+      "date": "2021-09-01",
+      "notify": true
+    }
+  ],
+  "userInfo": {
+
+  }
+}
