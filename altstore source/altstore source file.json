@@ -1,37 +1,41 @@
 {
-  "name": "Iftekhat Repo",
+  "name": "Iftekhar Repo",
   "identifier": "com.ifetkhar.test",
+  "sourceURL": "https://smarturl.it/repo",
   "apps": [
     {
-      "name": "Utube",
+      "name": "uYou+",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "ifetkhar",
+      "developerName": "MiRo92",
       "subtitle": "Test Subtitle.",
       "version": "16.34.7",
       "versionDate": "2021-09-06",
-      "versionDescription": "test versionDescription 2",
+      "versionDescription": "Change Log:\n-Added Custom Double Tap To Seek Time.\n-Added Long press on post image/gif to save it.\n-Added a donation button to it.",
       "downloadURL": "https://github.com/iftekharAmurad/altstore_repo/raw/fe216b7694d04e173c9a5f1045c5dea8bd087e33/ipa/YouTube_16.34.7_uYou_1.7.ipa",
-      "localizedDescription": "test localizedDescription",
+      "localizedDescription": "It's a tweak version of official Youtube app. It provide all premium features and extra features which is not available in official Youtube",
       "iconURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/icon.png",
-      "tintColor": "78209d",
+      "tintColor": "FC2125",
       "size": 108738175,
       "screenshotURLs": [
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1%20intro.jpg",
         "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1.jpg",
         "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/3.jpg",
         "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/3.jpg",
-        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/4.jpg"
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/4.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/5.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/6.jpg"
       ]
     }
   ],
   "news": [
     {
-      "title": "Utube Now Available",
+      "title": "uYou+ Now Available",
       "identifier": "com-google-ios-youtube",
-      "caption": "Download today from the test source.",
-      "tintColor": "78209d",
-      "imageURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1.jpg",
+      "caption": "Download today from AltStore source.",
+      "tintColor": "FC2125",
+      "imageURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1%20intro.jpg",
       "appID": "com.google.ios.youtube",
-      "date": "2021-09-01",
+      "date": "2021-09-06",
       "notify": true
     }
   ],
