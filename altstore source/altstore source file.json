@@ -26,18 +26,7 @@
       ]
     }
   ],
-  "news": [
-    {
-      "title": "GBA4iOS Now Available",
-      "identifier": "gba4ios-available-download-demo",
-      "caption": "Download today from the Demo source.",
-      "tintColor": "78209d",
-      "imageURL": "https://user-images.githubusercontent.com/705880/77480195-8208bf00-6dde-11ea-95ec-98d4552cb2a0.png",
-      "appID": "com.rileytestut.GBA4iOS",
-      "date": "2020-03-24",
-      "notify": false
-    }
-  ],
+
   "userInfo": {
 
   }
