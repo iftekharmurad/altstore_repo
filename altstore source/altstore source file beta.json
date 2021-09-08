@@ -1,7 +1,7 @@
 {
   "name": "Iftekhar Repo",
   "identifier": "com.ifetkhar.test",
-  "sourceURL": "https://smarturl.it/repo",
+  "sourceURL": "https://smarturl.it/repobeta",
   "apps": [
     {
       "name": "uYou+",
@@ -49,7 +49,4 @@
     } 
   ],
 
-  "userInfo": {
-
-  }
 }
