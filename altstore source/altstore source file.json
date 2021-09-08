@@ -25,20 +25,8 @@
         "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/6.jpg"
       ]
     }
-  ],
-  "news": [
     {
-      "title": "uYou+ Now Available",
-      "identifier": "com-google-ios-youtube",
-      "caption": "Download today from AltStore source.",
-      "tintColor": "FC2125",
-      "imageURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1%20intro.jpg",
-      "appID": "com.google.ios.youtube",
-      "date": "2021-09-06",
-      "notify": true
+      "name": "Instagram++",
+      "bundleIdentifier": "com.burbn.instagram",
+      "downloadURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/ipa/Instagram%2B%2B%20v115.0v1.ipa",
     }
-  ],
-  "userInfo": {
-
-  }
-}
