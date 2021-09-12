@@ -56,6 +56,7 @@
       "caption": "Test caption.",
       "tintColor": "FC2125",
       "imageURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1%20intro.jpg",
+      "appID": "com.burbn.instagram",
       "date": "2021-09-12",
       "notify": true
     }
