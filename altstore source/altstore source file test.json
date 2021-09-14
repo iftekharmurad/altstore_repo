@@ -16,14 +16,22 @@
       "iconURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/uYou%2B%20icon.png",
       "tintColor": "FC2125",
       "size": 108738175,
+      "screenshotURLs": [
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/1%20intro.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/2.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/3.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/4.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/5.jpg",
+        "https://github.com/iftekharAmurad/altstore_repo/raw/main/pictures/6.jpg"
+      ]
     },
     {
       "name": "Instagram++",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "MiRo92",
       "subtitle": "Youtube Premium now in uYou+",
-      "version": "16.34.8",
       "versionDate": "2021-09-12",
+      "version": "16.34.8",
       "versionDescription": "Change Log:\n-Added Custom Double Tap To Seek Time.\n-Added Long press on post image/gif to save it.\n-Added a donation button to it.",
       "downloadURL": "https://github.com/iftekharAmurad/altstore_repo/raw/main/ipa/Instagram%2B%2B%20v115.0v1.ipa",
       "localizedDescription": "It's a tweak version of official Youtube app. It provide all premium features and extra features which is not available in official Youtube",
